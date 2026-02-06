@@ -1,5 +1,3 @@
-
-
 # Exploratory Testing Report on Monefy
 
 Tester: Kunle Oduwobi  
@@ -22,7 +20,7 @@ Testing was conducted using time-boxed exploratory charters, focusing on high-ri
 
 Verify that users can reliably add, edit, and delete income and expense entries and that balances update correctly.
 
-#### Areas Covered:)
+#### Areas Covered:
 
 * Adding income entries  
 * Adding expense entries  
@@ -48,7 +46,7 @@ Evaluate how intuitive and user-friendly the category system and UI interactions
 * Navigation between screens  
 * Navigation between accounts  
 * Switching currencies  
-* Tool tips  
+* Tooltips  
 * Language translations  
 * Colour theme  
 * Verify features locked under a premium account
@@ -101,15 +99,15 @@ Identify how the app behaves under unusual or incorrect inputs.
 * Very large amounts and verify limits  
 * Very small amounts to verify figures are not rounded  
 * Descriptions with the following inputs   
-  * empty,   
-  * special character,   
+  * empty  
+  * special character  
   * emoji  
   * very long  
   * Copy and paste  
 * Zero-value transactions  
 * Display of large and small amounts  
 * Rapid multiple entries  
-* Double taps  
+* Double-taps  
 * Verify empty states  
 * Undo or recovery behavior: delete, create record  
 * Invalid Date range filter  
